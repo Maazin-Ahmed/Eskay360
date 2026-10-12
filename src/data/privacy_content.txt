@@ -1,0 +1,55 @@
+processors.
+Authorized third-party payment processors handle card and other
+                payment details. Your billing information is entered on their secure (SSL) pages, and we do not store
+                full card numbers on our servers.
+Google Analytics.
+We use Google Analytics to measure and analyze website traffic and
+                usage, using cookies and similar technologies.
+Teamwork.
+We use Teamwork as our project management platform to manage projects, tasks
+                and communication related to your order.
+WhatsApp.
+We may use WhatsApp to communicate with you about your order and provide
+                customer support.
+Hosting providers.
+Our website and data are hosted by third-party hosting providers.
+Other service providers.
+We may also use email service providers and advertising
+                platforms (such as Google and Meta) and similar tools to operate, market and improve our services.
+These providers may process your information in accordance with their own privacy policies. We require
+                them to protect your information and to use it only for the purposes for which it was shared.
+PRIVACY OF PAYMENTS
+To make sure the practice of the best privacy for payments, we offer acceptance from multiple payment
+                options. The payment processor where the clients put their billing information uses Secure Sockets Layer
+                (SSL) which is indicated in the domain as “https://”. Therefore, we assure that there is no issue at all
+                with the privacy of payment process and billing information.
+CONFIDENTIALITY
+Confidentiality is a serious concern and we treat it accordingly. We use your personal information to
+                keep in touch with you so that we can communicate smoothly about the order process. Your information
+                such as name, billing address, e-mail address and telephone number is treated as confidential and
+                stored at a secure location accessible by designated members only. We share your personal information
+                only with the service providers described in this policy, when you allow us to, or where we are
+                required or permitted to do so by law.
+DATA RETENTION
+We retain personal information for as long as necessary to fulfill the purposes described in this
+                policy, to comply with our legal and accounting obligations, to resolve disputes and to enforce our
+                agreements. When information is no longer needed, we securely delete or anonymize it.
+YOUR RIGHTS AND CONSUMER REQUESTS
+You may contact us at any time to request access to, correction of, or deletion of your personal
+                information, to object to or restrict certain processing, or to withdraw your consent. To exercise any
+                of these rights, email us at info@eskaydigital360.com or call +1 (561) 646 1547. We will respond to
+                your request within a reasonable time and, where required by applicable law, within the timeframes set
+                by that law.
+AMENDMENTS
+Eskay Digital may amend its privacy policy for stricter security concerns if needed. However, the
+                entire amendments about personal information security concerns will be declared with a prior notice of
+                the effective date of amended or updated privacy policies.
+CONDITIONS OF INFORMATION DISCLOSURE
+We disclose information to the service providers described in this policy as necessary to operate our
+                business. Otherwise, we disclose personal information only where required to comply with the law, a
+                judicial proceeding, a court order, or another legal process, or to protect our rights, property or
+                safety.
+CONTACT US
+ESKAY DIGITAL 360 is the trading brand of ESKAY GROUP LLC. If you have any questions or concerns
+                regarding our privacy policies or your personal information, you can contact us at
+                info@eskaydigital360.com, call +1 (561) 646 1547, or use our contact form.
